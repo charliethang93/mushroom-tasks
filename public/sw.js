@@ -1,5 +1,6 @@
-// Minimal service worker — caches assets so the app works offline
-const CACHE_NAME = 'mushroom-tasks-v1';
+// Service worker — caches assets so the app works offline
+// IMPORTANT: bump CACHE_NAME any time icons or manifest change so old assets get evicted
+const CACHE_NAME = 'tama-tasks-v2';
 const ASSETS = [
   '/',
   '/index.html',

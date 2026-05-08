@@ -1,12 +1,12 @@
 {
-  "name": "Mushroom Tasks",
-  "short_name": "Mushroom",
-  "description": "Gamified to-do list with a mushroom pet that levels up as you complete tasks",
+  "name": "Tama Tasks",
+  "short_name": "Tama",
+  "description": "A Tamagotchi-style to-do app — keep your virtual pet happy by completing tasks",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#fff8e7",
-  "theme_color": "#ffb84d",
+  "background_color": "#8aa874",
+  "theme_color": "#8aa874",
   "icons": [
     {
       "src": "/icon-192.png",
